@@ -109,3 +109,4 @@ Identifies key customers contributing significantly to total revenue.
 ---
 
 ## 🖼️ Dashboard Preview
+https://github.com/Amrit706/ecommerce-sales-analytics-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
